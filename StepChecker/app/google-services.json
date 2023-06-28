@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "632193192229",
+    "firebase_url": "https://fir-17178-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fir-17178",
+    "storage_bucket": "fir-17178.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632193192229:android:9c13b704bd872428afcacc",
+        "android_client_info": {
+          "package_name": "kr.co.kkm.stepchecker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632193192229-em5lu3g9q4cqapdanoij3bajnshp60th.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEufrGmCKJuop_UPUSqkuG7abJDVqfjzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632193192229-em5lu3g9q4cqapdanoij3bajnshp60th.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
